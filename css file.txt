@@ -1,0 +1,31 @@
+body{
+	background-color: #202020;
+}
+#main{
+	background-color: grey;
+	font-size: 15px;
+}
+#naim{
+	background-color: black;
+}
+#naim > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: blue;
+	display: inline-block;
+}
+#naim div > span{
+	padding: 15px;
+	border-radius: 3px; 
+        background: black; 
+        display: inline-block;
+	color: white; 
+}
+smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+	color: white;
+}
+love{
+	color:white;
+}
